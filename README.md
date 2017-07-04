@@ -1,2 +1,2 @@
 # ICRA-Vision
-pose estimation with PnP
+pose estimation with PnP.
